@@ -1,0 +1,17 @@
+com.unity3d.player
+drawable circle
+drawable load
+drawable rectangle
+id button
+id editText
+id ifly_mnotice_image_container
+id linearLayout
+id linearLayout2
+id splashscreen
+id textView
+layout activity_main
+layout activity_splash
+layout ifly_layout_mnotice_image
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

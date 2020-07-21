@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+MERGED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-57:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+	package
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:70-100
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:101-147
+	android:versionCode
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:1-13:12
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:3:148-188
+supports-screens
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:5:3-7:17
+MERGED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-55:19
+MERGED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-55:19
+	android:label
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:5:16-40
+	android:icon
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:5:41-68
+meta-data#unity.builder
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:6:5-65
+	android:value
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:6:45-62
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:6:16-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:8:20-74
+uses-permission#android.permission.INTERNET
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:9:3-65
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:9:20-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:10:3-74
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:10:20-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:11:3-69
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:11:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:12:3-79
+	android:name
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml:12:20-76
+uses-sdk
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\app\handtalk\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-44:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-57
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-51:36
+	android:value
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-47
+meta-data#unity.build-id
+ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-54:68
+	android:value
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-65
+	android:name
+		ADDED from [:unityLibrary] E:\app\handtalk\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-42

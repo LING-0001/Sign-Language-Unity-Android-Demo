@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable_load.png.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\load.png"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "E:\\app\\handtalk\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\layout_ifly_layout_mnotice_image.xml.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\ifly_layout_mnotice_image.xml"
+    },
+    {
+        "merged": "E:\\app\\handtalk\\launcher\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\app\\handtalk\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\activity_splash.xml"
+    }
+]
