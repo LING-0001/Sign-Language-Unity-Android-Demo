@@ -15,5 +15,6 @@ Native调用Unity的方法，如常规bridge调用，Unity中负责动画状态�
 
 
 * 注意事项<br><br>
-unity动画机只录入了两个动画。
+路径写死为绝对路径，Unity已卸载，需要手动添加Unity的配置。<br>
+unity动画机只录入了两个动画。<br>
 提供了Android加载动画模型的思路。
